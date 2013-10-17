@@ -8,13 +8,13 @@
 Summary:	Data::Section::Simple - Read data from __DATA__ section of file
 Summary(pl.UTF-8):	Data::Section::Simple - odczyt danych z sekcji __DATA__ pliku
 Name:		perl-Data-Section-Simple
-Version:	0.03
+Version:	0.05
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Data/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8cd6ebdc75f56f035ca032a3d3383a4f
+# Source0-md5:	082979ccfb4017bc952902d129887ce9
 URL:		http://search.cpan.org/dist/Data-Section-Simple/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13

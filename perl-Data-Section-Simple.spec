@@ -4,7 +4,6 @@
 #
 %define		pdir	Data
 %define		pnam	Section-Simple
-%include	/usr/lib/rpm/macros.perl
 Summary:	Data::Section::Simple - Read data from __DATA__ section of file
 Summary(pl.UTF-8):	Data::Section::Simple - odczyt danych z sekcji __DATA__ pliku
 Name:		perl-Data-Section-Simple
